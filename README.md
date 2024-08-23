@@ -4,11 +4,12 @@
 Conducted a thorough financial and market analysis of Fortune 500 Indian companies to support informed stock selection and investment decisions. <BR>
 
 # Tools & Technologies:
-Programming Languages: Python
-Libraries: BeautifulSoup, Pandas
-Data Warehousing: Snowflake
-Database Querying: SQL
-Data Visualization: Power BI
+
+Programming Languages: Python <BR>
+Libraries: BeautifulSoup, Pandas <BR>
+Data Warehousing: Snowflake <BR>
+Database Querying: SQL <BR>
+Data Visualization: Power BI <BR>
 
 # Process Overview: <BR>
 
