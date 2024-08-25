@@ -1,7 +1,7 @@
-# Financial Analysis of Fortune 500 Indian Companies <BR>
+# Real Estate Market Analysis of Indian Cities <BR>
 
 # Objective: <BR>
-Conducted a thorough financial and market analysis of Fortune 500 Indian companies to support informed stock selection and investment decisions. <BR>
+Conducted a thorough market analysis of Real Estate market of major Indian cities to analyse cost of buying and rent in major cities. <BR>
 
 # Tools & Technologies:
 
@@ -15,7 +15,7 @@ Data Visualization: Power BI <BR>
 
 **Data Collection & Transformation**: <BR>
 Tools Used: Python, BeautifulSoup, Pandas <BR>
-Scraped financial data from reliable sources using Python’s BeautifulSoup library. Processed and cleaned the data using Pandas, ensuring the data was in a suitable format for analysis. <BR>
+Scraped market data from reliable sources using Python’s BeautifulSoup library. Processed and cleaned the data using Pandas, ensuring the data was in a suitable format for analysis. <BR>
 
 **Data Storage & ETL:** <BR>
 Tools Used: Snowflake, Python <BR>
@@ -30,5 +30,5 @@ Tools Used: Power BI <BR>
 Connected Snowflake to Power BI to access and visualize the queried data.Designed and developed an interactive dashboard in Power BI, allowing for dynamic data exploration and insight generation. <BR>
 
 # Key Outcomes: <BR>
-Created a comprehensive financial analysis framework to evaluate and support stock choices for Fortune 500 Indian companies.<BR>
-Developed an intuitive and interactive Power BI dashboard that provides clear and actionable financial insights.<BR>
+Created a comprehensive market analysis of real estate data for metro cities to gather insights.<BR>
+Developed an intuitive and interactive Power BI dashboard that provides clear and actionable future insights.<BR>
