@@ -1,4 +1,4 @@
-# E-Commerce Data Scraping and Analysis<BR>
+# E-Commerce Product Data Scraping and Analysis<BR>
 
 # Objective: <BR>
 Conducted a thorough market analysis of major E-Commerce products in the Indian markets to analyse cost, specifications and reviews of products. <BR>
