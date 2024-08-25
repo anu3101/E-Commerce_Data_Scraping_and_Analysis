@@ -1,12 +1,11 @@
-# Real Estate Market Analysis of Indian Cities <BR>
+# E-Commerce Data Scraping and Analysis<BR>
 
 # Objective: <BR>
-Conducted a thorough market analysis of Real Estate market of major Indian cities to analyse cost of buying and rent in major cities. <BR>
+Conducted a thorough market analysis of major E-Commerce products in the Indian markets to analyse cost, specifications and reviews of products. <BR>
 
 # Tools & Technologies:
-
 Programming Languages: Python <BR>
-Libraries: BeautifulSoup, Pandas <BR>
+Libraries: BeautifulSoup, Pandas, Snowflake Connector <BR>
 Data Warehousing: Snowflake <BR>
 Database Querying: SQL <BR>
 Data Visualization: Power BI <BR>
@@ -30,5 +29,5 @@ Tools Used: Power BI <BR>
 Connected Snowflake to Power BI to access and visualize the queried data.Designed and developed an interactive dashboard in Power BI, allowing for dynamic data exploration and insight generation. <BR>
 
 # Key Outcomes: <BR>
-Created a comprehensive market analysis of real estate data for metro cities to gather insights.<BR>
+Created a comprehensive analysis of E-Commerce product data to gather insights.<BR>
 Developed an intuitive and interactive Power BI dashboard that provides clear and actionable future insights.<BR>
