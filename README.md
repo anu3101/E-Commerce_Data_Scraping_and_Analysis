@@ -5,7 +5,7 @@ Conducted a thorough market analysis of E-Commerce product Phones and Tablets in
 
 # Tools & Technologies:
 Programming Languages: Python <BR>
-Libraries: BeautifulSoup, Pandas, Snowflake Connector <BR>
+Libraries: API, BeautifulSoup, Pandas, Snowflake Connector <BR>
 Data Warehousing: Snowflake <BR>
 Database Querying: SQL <BR>
 Data Visualization: Power BI <BR>
