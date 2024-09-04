@@ -1,7 +1,7 @@
-# E-Commerce Product Data Scraping and Analysis<BR>
+# E-Commerce Product Data Collection and Analysis<BR>
 
 # Objective: <BR>
-Conducted a thorough market analysis of major E-Commerce products in the Indian markets to analyse cost, specifications and reviews of products. <BR>
+Conducted a thorough market analysis of E-Commerce product Phones and Tablets in the Indian markets to analyse cost, specifications and reviews of products. <BR>
 
 # Tools & Technologies:
 Programming Languages: Python <BR>
@@ -14,7 +14,7 @@ Data Visualization: Power BI <BR>
 
 **Data Collection & Transformation**: <BR>
 Tools Used: Python, BeautifulSoup, Pandas <BR>
-Scraped market data from reliable sources using Python’s BeautifulSoup library. Processed and cleaned the data using Pandas, ensuring the data was in a suitable format for analysis. <BR>
+Collected market data from reliable sources using Python’s BeautifulSoup library as well as APIs Integration. Processed and cleaned the data using Pandas, ensuring the data was in a suitable format for analysis. <BR>
 
 **Data Storage & ETL:** <BR>
 Tools Used: Snowflake, Python <BR>
